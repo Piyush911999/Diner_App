@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "401403350975",
+    "firebase_url": "https://dinetest1-4fe78.firebaseio.com",
+    "project_id": "dinetest1-4fe78",
+    "storage_bucket": "dinetest1-4fe78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401403350975:android:76007f1de7b0a5f0",
+        "android_client_info": {
+          "package_name": "com.example.blackduste.dinetest1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401403350975-m3ogf1cub7ckoqrck5g5c1vkgt8jq2bo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blackduste.dinetest1",
+            "certificate_hash": "0d97ffa2ce59a0d67111decd3a5394413f5fcf82"
+          }
+        },
+        {
+          "client_id": "401403350975-58904dcfo66vsp6haa988uivdl1nhcj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVS4nqY181Imu5kYzVDFpsttKsY2a4B-I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401403350975-58904dcfo66vsp6haa988uivdl1nhcj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

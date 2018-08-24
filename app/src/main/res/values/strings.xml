@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">DineTest1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">&#160;Password</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="btn_sign_in">Sign In</string>
+    <string name="err_msg_name">Enter your full name</string>
+    <string name="enter_phone_number">&#160;Phone Number(7 to 10 digits)</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+    <string name="welcome">Welcome!!</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="name_of_menu_items">Name of Menu Items</string>
+
+</resources>
