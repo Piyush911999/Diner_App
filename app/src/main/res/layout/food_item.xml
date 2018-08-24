@@ -14,20 +14,20 @@
         android:layout_height="match_parent">
 
         <ImageView
-            android:id="@+id/menu_image"
+            android:id="@+id/food_image"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:scaleType="centerCrop"
             android:src="@drawable/background" />
 
         <TextView
-            android:id="@+id/menu_name"
+            android:id="@+id/food_name"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
             android:background="#4f0e0d0e"
             android:gravity="center"
-            android:text="@string/name_of_menu_items"
+            android:text="@string/name_of_food_items"
             android:textColor="@color/White"
             android:textSize="20sp" />
 
